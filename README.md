@@ -10,11 +10,11 @@ A combined cycle power plant (CCPP) is composed of gas turbines (GT), steam turb
 
 In this repository, you'll find Jupyter Notebook files for different regression models and analysis. The models covered include:
 
+- Multiple Linear Regression
 - Polynomial Regression
 - Support Vector Regression (SVR)
 - Decision Tree Regression
 - Random Forest Regression
-- Multiple Linear Regression
 
 <!-- Dataset -->
 
